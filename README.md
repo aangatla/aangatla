@@ -3,7 +3,7 @@
 <h3 align="center">A passionate data scientist from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aangatla&label=Profile%20views&color=0e75b6&style=flat" alt="aangatla" /> </p>
 
-- 💬 Deep interest in **NLP,Deep Learning,Transformer,Machine learning**
+- 💬 Huge interest in **NLP,Deep Learning,Transformer,Machine learning**
 
 - 📫 Reach me at **sudeeptiwari12345@gmail.com**
 
