@@ -3,9 +3,9 @@
 <h3 align="center">A passionate data scientist from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aangatla&label=Profile%20views&color=0e75b6&style=flat" alt="aangatla" /> </p>
 
-- 💬 Ask me about **Deep Learning,Transformer,Machine learning**
+- 💬 Deep interested in **Deep Learning,Transformer,Machine learning**
 
-- 📫 How to reach me **sudeeptiwari12345@gmail.com**
+- 📫 Reach me at **sudeeptiwari12345@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
